@@ -1,0 +1,23 @@
+.popup {
+  position: fixed;
+  top: 25%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 25%;
+ 
+  background-color: rgba(216, 219, 222, 0.692);
+  border-radius: 20px;
+}
+.popup .popUpInner {
+  position: relative;
+  padding: 32px;
+  max-width: 640px;
+  background-color: #198754
+}
+.popup .popUpInner .closeBtn {
+  position: relative;
+  background-color: brown !important;
+  top: 50%;
+  left: 50%;
+}

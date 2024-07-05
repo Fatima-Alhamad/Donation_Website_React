@@ -1,0 +1,25 @@
+.parentd {
+  height: 120vh;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
+    url("../public/images/smile.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -200;
+}
+.donationForm {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
+  border-radius: 4px;
+  height: 100vh;
+}
+.popupD{
+    position: fixed;
+  top: 25%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 25%;
+ 
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  border-radius: 20px;
+}

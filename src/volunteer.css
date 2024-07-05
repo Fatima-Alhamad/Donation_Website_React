@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+  --fontFamily: "Roboto Slab", serif;
+  --fontFamily2: "Poppins", sans-serif;
+}
+.parent {
+  height: 120vh;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 0.5) 0%,
+      rgba(9, 9, 121, 0.5) 100%,
+      rgba(0, 212, 255, 0.5) 100%
+    ),
+    url("../public/images/volunteer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section {
+  height: 500px;
+}
+
+.contentPara {
+  font-family: var(--fontFamily2);
+  color: rgb(240, 247, 254);
+}
+
+.container-fluid .volunteerForm {
+  background-color: aliceblue;
+  border-radius: 4px;
+}
+.handshake {
+  width: 75px;
+  position: absolute;
+  left: -10px;
+  top: -65px;
+}

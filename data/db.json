@@ -1,0 +1,400 @@
+{
+  "demonstrations": [
+    {
+      "ImageSrc": "../images/pro2.webp",
+      "title": "Children's Rights Rally",
+      "description": "Advocating for the safety and well-being of Gaza's children.",
+      "location": "Turkey",
+      "admin": "Mohammed Hassan",
+      "date": "2024-06-27 ",
+      "time": "11:00 AM",
+      "Participants": [
+        {
+          "fullName": "fatima hamad",
+          "email": "fatima@gmail.com"
+        },
+        {
+          "fullName": "youssef omar",
+          "email": "omar@gmail.com"
+        }
+      ],
+      "id": "c805"
+    },
+    {
+      "ImageSrc": "../images/pro3.jpg",
+      "title": "Solidarity March",
+      "description": "Standing with Gaza against oppression and injustice.",
+      "location": "Qatar",
+      "admin": "Layla Khalid",
+      "id": "d129",
+      "date": "2024-06-27 ",
+      "time": "12:00 PM",
+      "Participants": [
+        {
+          "fullName": "fatima hamad",
+          "email": "fatimaalhamad639@gmail.com"
+        },
+        {
+          "fullName": "youssef omar",
+          "email": "omar@gmail.com"
+        }
+      ]
+    },
+    {
+      "ImageSrc": "../images/pro4.avif",
+      "title": "Hope for Gaza",
+      "description": "Calling for peace, justice, and humanitarian aid.",
+      "location": "Jaban",
+      "admin": "Ahmed Mahmoud",
+      "id": "e42d",
+      "date": "2024-06-27 ",
+      "time": "12:30 PM",
+      "Participants": [
+        {
+          "fullName": "youssef omar",
+          "email": "fatimaalhamad639@gmail.com"
+        }
+      ]
+    },
+    {
+      "ImageSrc": "../images/pro5.jpeg",
+      "title": "Unity Rally",
+      "description": "Uniting voices for Gaza's freedom and dignity.",
+      "location": "France",
+      "admin": "Leila Dubois",
+      "id": "f76a",
+      "date": "2024-06-30",
+      "time": "11:30 AM",
+      "Participants": []
+    },
+    {
+      "ImageSrc": "../images/pro6.jpg",
+      "title": "Humanitarian Aid Gathering",
+      "description": "Collecting supplies for Gaza's relief efforts.",
+      "location": "Germany",
+      "admin": "Markus Fischer",
+      "id": "g2b9",
+      "date": "2024-07-01",
+      "time": "1:00 PM",
+      "Participants": []
+    },
+    {
+      "ImageSrc": "../images/pro7.png",
+      "title": "Justice Now Rally",
+      "description": "Demanding accountability and justice for Gaza.",
+      "location": "USA",
+      "admin": "Amina Patel",
+      "id": "h9e3",
+      "date": "2024-07-02",
+      "time": "2:00 PM",
+      "participants": []
+    },
+    {
+      "ImageSrc": "../images/pro8.jpg",
+      "title": "Freedom March",
+      "description": "Marching for Gaza's right to self-determination.",
+      "location": "Egypt",
+      "admin": "Khaled Mansour",
+      "id": "i5f7",
+      "date": "2024-06-27 ",
+      "time": "3:00 PM",
+      "Participants": [
+        {
+          "fullName": "fatima hamad",
+          "email": "fatima@gmail.com"
+        }
+      ]
+    },
+    {
+      "ImageSrc": "../images/pro9.jpeg",
+      "title": "Voices of Hope",
+      "description": "Amplifying stories of resilience from Gaza.",
+      "location": "Canada",
+      "admin": "Nadia Rahman",
+      "id": "j3g2",
+      "date": "2024-07-04 ",
+      "time": "10:30 AM",
+      "Participants": []
+    },
+    {
+      "ImageSrc": "../images/pro10.jpg",
+      "title": "Palestinian Solidarity",
+      "description": "Expressing unwavering support for Gaza's people.",
+      "location": "Sweden",
+      "admin": "Omar Khalifa",
+      "id": "k1h6",
+      "date": "2024-07-05 ",
+      "time": "3:00 PM",
+      "Participants": [
+        {
+          "fullName": "ahmad mousa",
+          "email": "amadalmd212@gmail.com"
+        }
+      ]
+    },
+    {
+      "ImageSrc": "../images/pro13.jpeg",
+      "title": "Art for Gaza",
+      "description": "Using creativity to raise awareness and funds.",
+      "location": "Australia",
+      "admin": "Maya Patel",
+      "id": "l8i4",
+      "date": "2024-07-06",
+      "time": "10:50 AM",
+      "Participants": []
+    },
+    {
+      "ImageSrc": "../images/pro12.webp",
+      "title": "Solidarity Bike Ride",
+      "description": "Pedaling for Gaza's rights and dignity.",
+      "location": "Netherlands",
+      "admin": "Erik van der Berg",
+      "id": "m8521",
+      "date": "2024-07-10 ",
+      "time": "5:00 PM",
+      "Participants": []
+    },
+    {
+      "ImageSrc": "../images/pro1.webp",
+      "title": "Voices of Hope",
+      "description": "Amplifying stories of resilience from Gaza.",
+      "location": "Canada",
+      "admin": "Nadia Rahman",
+      "id": "j3g2",
+      "date": "2024-07-04 ",
+      "time": "10:30 AM",
+      "Participants": []
+    }
+  ],
+  "volunteers": [
+    {
+      "id": "c329",
+      "firstName": "fatima",
+      "lastName": "alhamad",
+      "email": "fatima@gmail.com",
+      "age": "20",
+      "country": "lebanon",
+      "major": "IT",
+      "hours": "13",
+      "field": "Social Media Advocates",
+      "accepted": true
+    },
+    {
+      "id": "0fc8",
+      "firstName": "raya",
+      "lastName": "rami",
+      "email": "raya@gmail.com",
+      "age": "50",
+      "country": "lebanon",
+      "major": "cs",
+      "hours": "20",
+      "field": "Child Protection",
+      "accepted": false
+    },
+    {
+      "id": "fe7c",
+      "firstName": "esraa",
+      "lastName": "yasser",
+      "email": "omar@gmail.com",
+      "age": "19",
+      "country": "jordan",
+      "major": "graphic design",
+      "hours": "20",
+      "field": "Social Media Advocates",
+      "accepted": false
+    },
+    {
+      "id": "fcd3",
+      "firstName": "walid",
+      "lastName": "asaad",
+      "email": "walid@gmail.com",
+      "age": "30",
+      "country": "yamen",
+      "major": "computer engineering",
+      "hours": "30",
+      "field": "Event Organizers",
+      "accepted": false
+    },
+    {
+      "id": "fc76",
+      "firstName": "moustafa",
+      "lastName": "moussa",
+      "email": "moustafa@gmail.com",
+      "age": "40",
+      "country": "yamen",
+      "major": "biomedical engineering",
+      "hours": "39",
+      "field": "Healthcare Volunteers"
+    },
+    {
+      "id": "3a48",
+      "firstName": "shams",
+      "lastName": "moussa",
+      "email": "shams@gmail.com",
+      "age": "40",
+      "country": "yamen",
+      "major": "biomedical engineering",
+      "hours": "60",
+      "field": "Healthcare Volunteers"
+    },
+    {
+      "id": "214a",
+      "firstName": "mariam",
+      "lastName": "yassin",
+      "email": "mariam@gmail.com",
+      "age": "40",
+      "country": "syria",
+      "major": "biochemistrey",
+      "hours": "30",
+      "field": "Event Organizers"
+    },
+    {
+      "id": "8977",
+      "firstName": "samya",
+      "lastName": "fares",
+      "email": "samya@gmail.com",
+      "age": "23",
+      "country": "syria",
+      "major": "biology",
+      "hours": "30",
+      "field": "Healthcare Volunteers"
+    },
+    {
+      "id": "1caf",
+      "firstName": "khadija",
+      "lastName": "mohammad",
+      "email": "khadija@gmail.com",
+      "age": "25",
+      "country": "canada",
+      "major": "medical",
+      "hours": "30",
+      "field": "Healthcare Volunteers"
+    },
+    {
+      "id": "dafd",
+      "firstName": "omar",
+      "lastName": "yasser",
+      "email": "omar@gmail.com",
+      "age": "30",
+      "country": "lebanon",
+      "major": "IT",
+      "hours": "32",
+      "field": "Social Media Advocates"
+    }
+  ],
+  "donors": [
+    {
+      "id": "af7f",
+      "firstName": "omar",
+      "lastName": "khalid",
+      "email": "omar@gmail.com",
+      "age": "26",
+      "country": "lebanon",
+      "amount": "100",
+      "method": "paypal"
+    },
+    {
+      "id": "34a9",
+      "firstName": "khalid",
+      "lastName": "youssif",
+      "email": "khalid@gmail.com",
+      "age": "40",
+      "country": "syria",
+      "amount": "200",
+      "method": "credit card"
+    },
+    {
+      "id": "f0dc",
+      "firstName": "ali",
+      "lastName": "mohammad",
+      "email": "ali@gmail.com",
+      "age": "50",
+      "country": "turkey",
+      "amount": "500",
+      "method": "payoneer"
+    },
+    {
+      "id": "f0pl",
+      "firstName": "yasmin",
+      "lastName": "rami",
+      "email": "ysmn@gmail.com",
+      "age": "45",
+      "country": "qatar",
+      "amount": "300",
+      "method": "payoneer"
+    },
+    {
+      "id": "lkjh",
+      "firstName": "ruba",
+      "lastName": "hammoud",
+      "email": "ruba@gmail.com",
+      "age": "22",
+      "country": "lebanon",
+      "amount": "200",
+      "method": "credit card"
+    },
+    {
+      "id": "fvkm",
+      "firstName": "ranim",
+      "lastName": "hourani",
+      "email": "ranim@gmail.com",
+      "age": "23",
+      "country": "syria",
+      "amount": "400",
+      "method": "credit card"
+    },
+    {
+      "id": "zlkm",
+      "firstName": "wissam",
+      "lastName": "hammoud",
+      "email": "wissam@gmail.com",
+      "age": "60",
+      "country": "jordan",
+      "amount": "900",
+      "method": "credit card"
+    },
+    {
+      "id": "db64",
+      "firstName": "esraa",
+      "lastName": "khalid",
+      "email": "fatima@gmail.com",
+      "age": "50",
+      "country": "turkey",
+      "amount": "500",
+      "method": "credit card"
+    },
+    {
+      "id": "0451",
+      "firstName": "fatima",
+      "lastName": "alhamad",
+      "email": "fatimaalhamad639@gmail.com",
+      "age": "20",
+      "country": "turkey",
+      "amount": "500",
+      "method": "credit card"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "name": "Ahmad Saed",
+      "img": "../images/Placeholder.png",
+      "email": "admin1@hope.org",
+      "password": "admin1hope"
+    },
+    {
+      "id": "2",
+      "name": "Esraa Shouaib",
+      "img": "../images/Placeholder.png",
+      "email": "admin2@hope.org",
+      "password": "admin2hope"
+    },
+    {
+      "id": "3",
+      "name": "Omar Khalid",
+      "img": "../images/Placeholder.png",
+      "email": "admin3@hope.org",
+      "password": "admin3hope"
+    }
+  ]
+}
